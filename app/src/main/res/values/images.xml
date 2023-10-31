@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="imageList">
+            <item>pic1</item>
+            <item>pic2</item>
+            <item>pic3</item>
+            <item>pic4</item>
+        </string-array>
+</resources>
